@@ -9,10 +9,6 @@
 
 ###
 
-<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
   <img width="12" />
@@ -25,11 +21,17 @@
 
 ###
 
+<br clear="both">
+
+<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"  />
+
+###
+
 <div align="left">
-  <a href="www.linkedin.com/in/amad-bin-jaiyad" target="_blank">
+  <a href="https://www.linkedin.com/in/amad-bin-jaiyad?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://x.com/abjaiyad" target="_blank">
+  <a href="https://x.com/abjaiyad?t=OUVlXR0oS8lFa9N7PsEjhw&s=09" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
 </div>
