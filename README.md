@@ -1,37 +1,47 @@
-<h2 align="left">Hi 👋, I'm Amad Bin Jaiyad<br>BCA Student | Tech Innovator in Training | Exploring the Cutting-Edge of Technology</h2>
+# Hi there, I'm Amad Bin Jaiyad 👋
 
-###
+Welcome to my GitHub profile! I'm a passionate developer with a keen interest in software development, open-source projects, and continuously learning new technologies.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abjaiyad&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abjaiyad&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+## About Me
 
-###
+- 🌱 I’m currently learning and exploring new programming languages and frameworks.
+- 👯 I’m looking to collaborate on open-source projects.
+- 🤔 I’m looking for help with advanced algorithms and data structures.
+- 💬 Ask me about web development, C, and C++.
+- 📫 How to reach me: [Email](mailto:amadbinjaiyad2005@gmail.com) | [LinkedIn](https://www.linkedin.com/in/amad-bin-jaiyad/) | [Twitter](https://x.com/abjaiyad)
+- ⚡ Fun fact: I love solving puzzles and playing chess!
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-</div>
+## Languages and Tools
 
-###
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c) 
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B) 
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql) 
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-05122A?style=flat&logo=microsoft-sql-server) 
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git) 
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
+![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code)
 
-<br clear="both">
+## GitHub Stats
 
-<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif"  />
+![Amad Bin Jaiyad's GitHub stats](https://github-readme-stats.vercel.app/api?username=abjaiyad&show_icons=true&theme=radical)
 
-###
+## Top Languages
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/amad-bin-jaiyad?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/abjaiyad?t=OUVlXR0oS8lFa9N7PsEjhw&s=09" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abjaiyad&layout=compact&theme=radical)
+
+## Projects
+
+### [Payment Gateway](https://github.com/abjaiyad/Payment-Gateaway)
+A project that demonstrates the implementation of a payment gateway system. This project includes features such as payment processing, transaction history, and secure authentication.
+
+### [My Digital Clock](https://github.com/abjaiyad/MyDigitalClock_C)
+A digital clock application built using C. This project showcases the use of various programming concepts such as time manipulation, user interface design, and system calls.
+
+## Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amad-bin-jaiyad/)
+[![Twitter](https://img.shields.io/badge/-Twitter-05122A?style=flat&logo=twitter&logoColor=white)](https://x.com/abjaiyad)
+
+---
+
+Thanks for visiting my profile! Feel free to reach out if you'd like to collaborate on any projects or just want to connect.
