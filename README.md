@@ -1,30 +1,31 @@
-# Hi there, I'm Amad Bin Jaiyad 👋
+# Hello, I'm Amad Bin Jaiyad 👋
 
-🎓 BCA Student | 🐍 Python Learner | 💻 Aspiring Developer
+Aspiring Data Scientist | BCA Student | Python & SQL Enthusiast
 
-I am passionate about programming and currently focusing on Python to build projects, improve problem-solving skills, and grow as a developer. I enjoy turning ideas into code and continuously learning new technologies.
+---
 
-🔭 **What I’m working on:**
-- Building small Python projects to strengthen my coding foundation
-- Exploring algorithms, problem-solving, and SQL basics
-- Preparing for internships and real-world opportunities
+## About Me
+I am an enthusiastic BCA student with a passion for data science and programming. Currently honing my skills in Python and SQL, I am eager to apply my knowledge through real-world internships and projects. My journey is driven by curiosity, a strong problem-solving mindset, and the ambition to unlock insights from data to make impactful decisions.
 
-🌱 **What I’m learning:**
-- Python (core concepts, projects, problem-solving)
-- SQL for databases
-- Programming logic and algorithms
+## Technical Skills
+- **Programming:** Python (learning), SQL (learning)  
+- **Core Strengths:** Data Analysis, Logical Thinking, Problem Solving  
+- **Tools:** Open to exploring data science libraries and databases
 
-💡 **Goals:**
-- Secure an internship opportunity to gain practical experience
-- Keep improving my skills by building meaningful projects
-- Connect with other developers and share my journey
+## Career Goals
+- Secure internships focused on Python or SQL to gain hands-on experience  
+- Build a solid foundation in data manipulation and analysis  
+- Develop into a skilled Data Scientist contributing to meaningful projects
 
-📫 **How to reach me:**
-- [LinkedIn](www.linkedin.com/in/amad-bin-jaiyad)  
-- [Twitter](https://x.com/abjaiyad)  
-- [Email Me](mailto:amadbinjaiyad2005@gmail.com)
+## Beyond Code
+When I'm not coding or studying, you'll find me on the football field or solving the Rubik’s Cube—both fuel my strategic thinking and perseverance.
 
-✨ *Always learning, always growing!*
+## Let’s Connect!
+- [LinkedIn](https://www.linkedin.com/in/amad-bin-jaiyad?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+- [X (Twitter)](https://x.com/abjaiyad?t=vto9ZAsSNQ6PZNTeTp3itA&s=09)
 
+---
 
-![Amad's GitHub stats](https://github-readme-stats.vercel.app/api?username=abjaiyad&show_icons=true&theme=blue-green)
+> “Data is the new oil, and I’m on a mission to refine it.”  
+
+Feel free to explore my projects and reach out. I’m excited about opportunities to learn, collaborate, and grow in the world of data science!
