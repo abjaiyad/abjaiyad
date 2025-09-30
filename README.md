@@ -30,7 +30,7 @@ I’m a curious and enthusiastic BCA student, passionate about building practica
 ## 🚀 Featured Projects
 
 - [Payment Gateway](https://github.com/abjaiyad/Python-Exercises) — Secure and efficient payment processing.
-- [Digital Clock](https://github.com/abjaiyad/Python-Input-Output) — A sleek digital clock built with Python.
+- [Digital Clock](https://github.com/abjaiyad/Python-Input-Output) — A sleek digital clock built with C.
 - ...and many more!  
   Explore my Python repositories:
   - [Python Exercises](https://github.com/abjaiyad/Python-Exercises)
