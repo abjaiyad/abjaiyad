@@ -33,7 +33,7 @@ I’m a curious and enthusiastic BCA student, passionate about building practica
 - [Digital Clock](https://github.com/abjaiyad/Python-Input-Output) — A sleek digital clock built with C.
 - ...and many more!  
   Explore my Python repositories:
-  - [Python Exercises](https://github.com/abjaiyad/Python-Exercises)
+  - [Python Exercises](https://github.com/abjaiyad/PythonExercises.git)
   - [Python Input/Output](https://github.com/abjaiyad/Python-Input-Output)
   - [Python Loops](https://github.com/abjaiyad/Python-Loops)
   - [Python Conditional Statements](https://github.com/abjaiyad/Python-ConditionalStatements)
