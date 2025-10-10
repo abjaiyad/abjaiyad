@@ -54,7 +54,7 @@ I’m Amad (Amad Bin Jaiyad), a curious and enthusiastic BCA student who loves b
   https://github.com/abjaiyad/Python-Input-Output
 
 Explore more Python repos:
-- https://github.com/abjaiyad/Python-Exercises
+- https://github.com/abjaiyad/PythonExercises
 - https://github.com/abjaiyad/Python-Input-Output
 - https://github.com/abjaiyad/Python-Loops
 - https://github.com/abjaiyad/Python-ConditionalStatements
