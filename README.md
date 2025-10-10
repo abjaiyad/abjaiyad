@@ -49,9 +49,9 @@ I’m Amad (Amad Bin Jaiyad), a curious and enthusiastic BCA student who loves b
 ## 🚀 Featured Projects
 
 - Payment Gateway — Secure and efficient payment processing.  
-  https://github.com/abjaiyad/Python-Exercises
+  https://github.com/abjaiyad/Payment-Gateaway
 - Digital Clock — A sleek digital clock implemented in C.  
-  https://github.com/abjaiyad/Python-Input-Output
+  https://github.com/abjaiyad/MyDigitalClock_C
 
 Explore more Python repos:
 - https://github.com/abjaiyad/PythonExercises
