@@ -33,7 +33,7 @@ I’m Amad (Amad Bin Jaiyad), a curious and enthusiastic BCA student who loves b
 ## 💻 Skills & Tools
 
 - Languages: Python, SQL
-- Core strengths: Data Structures & Algorithms (DSA), Data Analysis, Problem Solving
+- Core strengths: Data Structures & Algorithms (DSA), AI, Data, Problem Solving
 - Tools: Jupyter Notebook, VS Code, Git & GitHub
 
 ---
