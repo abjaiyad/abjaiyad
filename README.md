@@ -12,7 +12,6 @@
 ## Table of Contents
 - [About Me](#-about-me)
 - [Skills & Tools](#-skills--tools)
-- [Most Used Languages](#-most-used-languages)
 - [Featured Projects](#-featured-projects)
 - [Currently Learning](#-currently-learning)
 - [Fun Facts](#-fun-facts)
@@ -33,16 +32,8 @@ I’m Amad (Amad Bin Jaiyad), a curious and enthusiastic BCA student who loves b
 ## 💻 Skills & Tools
 
 - Languages: Python, SQL
-- Core strengths: Data Structures & Algorithms (DSA), AI, Data, Problem Solving
-- Tools: Jupyter Notebook, VS Code, Git & GitHub
-
----
-
-## 🌐 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abjaiyad&layout=compact&langs_count=8&theme=github_dark&hide=Jupyter%20Notebook" alt="Top languages" />
-</p>
+- Core strengths: Data Structures & Algorithms (DSA), Data, Problem Solving
+- Tools: VS Code, Git & GitHub, MySQL
 
 ---
 
@@ -60,13 +51,11 @@ Explore more Python repos:
 - https://github.com/abjaiyad/Python-ConditionalStatements
 - https://github.com/abjaiyad/Python-Variables-DataTypes
 
-(Tip: consider adding short README.md descriptions and screenshots for each repo so visitors quickly understand what each project does.)
-
 ---
 
 ## 🌱 Currently Learning
 
-- Advanced Python libraries for data analysis (pandas, matplotlib)
+- Advanced Python
 - SQL optimization and database design
 - Building interactive, real-world projects
 
