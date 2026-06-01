@@ -1,264 +1,195 @@
-# 👋 Welcome to My GitHub Profile
+# 👋 Welcome to My Profile
 
-Hello! I'm **abjaiyad** (Amad Bin Jaiyad), a passionate developer learning and building projects across multiple programming languages. This repository serves as a hub for my coding journey, showcasing my progression from fundamental concepts to practical applications.
+Hello! I'm **Amad Bin Jaiyad** (abjaiyad), a developer passionate about **Python** and **SQL**. I build practical applications and solutions using these technologies. This repository is organized to showcase my expertise and projects in Python, data, and database-driven applications.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python Badge" />
-  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white" alt="C++ Badge" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white" alt="C Badge" />
   <img src="https://img.shields.io/badge/SQL-025E8C?logo=sqlite&logoColor=white" alt="SQL Badge" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL Badge" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git Badge" />
 </p>
 
 ---
 
-## 📚 Repository Organization
+## 📋 Table of Contents
+- [About Me](#-about-me)
+- [Core Skills](#-core-skills)
+- [Python Projects](#-python-projects)
+- [Featured Work](#-featured-work)
+- [Quick Links](#-quick-links)
+- [Connect](#-connect-with-me)
 
-My repositories are organized by **programming language** and **skill level**. Each section progresses from beginner concepts to advanced applications.
+---
+
+## 🎯 About Me
+
+I'm a developer focused on building **data-driven applications** using **Python** and **SQL**. My expertise lies in:
+- Writing clean, efficient Python code
+- Database design and SQL optimization
+- Data processing and analysis
+- Building practical, real-world solutions
+
+**Current Focus:** Python Development, SQL Databases, Backend Applications
+
+---
+
+## 💻 Core Skills
+
+### Primary Technologies
+| Skill | Proficiency | Experience |
+|---|---|---|
+| **Python** | Advanced | Problem-solving, Data Processing, Applications |
+| **SQL** | Advanced | Database Design, Queries, Optimization |
+| **MySQL** | Intermediate | Database Management, Schema Design |
+| **Data Structures & Algorithms** | Advanced | Problem-solving, Optimization |
+
+### Tools & Platforms
+- **Version Control:** Git, GitHub
+- **Development:** VS Code, Jupyter Notebooks
+- **Databases:** MySQL, SQLite
+- **Problem Solving:** DSA, Algorithm Optimization
 
 ---
 
 ## 🐍 Python Projects (7 Repositories)
 
-### 🔰 Fundamentals
-Master Python basics and foundational concepts.
+### 📊 Data & Problem Solving
+Real-world Python applications and data processing solutions.
 
-| Repository | Description | Focus |
+| Project | Description | Tech Stack |
 |---|---|---|
-| **[Python-Variables-DataTypes](https://github.com/abjaiyad/Python-Variables-DataTypes)** | Variables and data types fundamentals | Variables, Types, Basics |
-| **[Python-Operators](https://github.com/abjaiyad/Python-Operators)** | Operators and operations in Python | Arithmetic, Logical, Comparison |
-| **[Python-Input-Output](https://github.com/abjaiyad/Python-Input-Output)** | Input/output operations | I/O, String Formatting |
-| **[mathematical_formulas](https://github.com/abjaiyad/mathematical_formulas)** | Mathematical formula implementations | Math, Calculations, Formulas |
+| **[PythonExercises](https://github.com/abjaiyad/PythonExercises)** | Comprehensive collection of solved Python problems | Python, DSA |
+| **[mathematical_formulas](https://github.com/abjaiyad/mathematical_formulas)** | Mathematical calculations and formula implementations | Python, Math |
+| **[Python-Conditional-Programs](https://github.com/abjaiyad/Python-Conditional-Programs)** | 20+ advanced conditional logic programs | Python, Logic |
 
-**Topics:** `python` `beginner` `fundamentals` `learning`
+### 🔧 Core Concepts
+Mastery of Python fundamentals - these demonstrate depth of knowledge.
 
-### 🚀 Control Flow
-Conditional statements, loops, and logic control.
-
-| Repository | Description | Focus |
+| Project | Description | Focus |
 |---|---|---|
-| **[Python-ConditionalStatements](https://github.com/abjaiyad/Python-ConditionalStatements)** | If/else conditions and logic | Conditionals, Decision Making |
-| **[Python-Conditional-Programs](https://github.com/abjaiyad/Python-Conditional-Programs)** | 20+ conditional statement exercises | Practice, Exercises, Real Problems |
-| **[Python-Loops](https://github.com/abjaiyad/Python-Loops)** | Loop constructs and patterns | For, While, Iteration |
-
-**Topics:** `python` `intermediate` `control-flow` `practice`
-
-### 📚 Practice & Exercises
-Comprehensive Python practice solutions.
-
-| Repository | Description | Focus |
-|---|---|---|
-| **[PythonExercises](https://github.com/abjaiyad/PythonExercises)** | Solved Python practice exercises | Comprehensive, Mixed Topics |
-
-**Topics:** `python` `exercises` `practice` `solutions`
+| **[Python-Variables-DataTypes](https://github.com/abjaiyad/Python-Variables-DataTypes)** | Data type handling and variable management | Fundamentals |
+| **[Python-Operators](https://github.com/abjaiyad/Python-Operators)** | Operator usage and expressions | Fundamentals |
+| **[Python-Input-Output](https://github.com/abjaiyad/Python-Input-Output)** | I/O operations and data handling | Fundamentals |
+| **[Python-Loops](https://github.com/abjaiyad/Python-Loops)** | Iteration patterns and loop optimization | Control Flow |
+| **[Python-ConditionalStatements](https://github.com/abjaiyad/Python-ConditionalStatements)** | Decision making and condition handling | Control Flow |
 
 ---
 
-## 🔴 C++ Projects (9 Repositories)
+## 🌟 Featured Work
 
-### 🔰 Beginner Concepts
-Learn fundamental C++ programming concepts and best practices.
+### Highlighted Projects
 
-| Repository | Description | Focus |
-|---|---|---|
-| **[Basic-Math-Operations](https://github.com/abjaiyad/Basic-Math-Operations)** | Simple mathematical operations in C++ | Arithmetic, Basic I/O |
-| **[Variable-Swap-Example](https://github.com/abjaiyad/Variable-Swap-Example)** | Demonstrates variable swapping techniques | Variables, Memory |
-| **[Naming-Conventions-Examples](https://github.com/abjaiyad/Naming-Conventions-Examples)** | Best practices for naming conventions | Code Style, Standards |
-| **[Fibonacci-Series-Generator](https://github.com/abjaiyad/Fibonacci-Series-Generator)** | Generate Fibonacci sequences | Loops, Algorithms |
+🔗 **[PythonExercises](https://github.com/abjaiyad/PythonExercises)**
+- Comprehensive Python problem-solving portfolio
+- Demonstrates strong fundamentals and problem-solving skills
+- Mixed domains covering real-world scenarios
 
-**Topics:** `cpp` `beginner` `fundamentals` `learning`
-
-### 🚀 Practical Applications
-Real-world projects applying C++ concepts.
-
-| Repository | Description | Focus |
-|---|---|---|
-| **[CurrencyConverter_CPP](https://github.com/abjaiyad/CurrencyConverter_CPP)** | Convert INR to USD, EUR, and GBP | I/O, Calculations, Real-world Use |
-| **[FahrenheitToCelsius](https://github.com/abjaiyad/FahrenheitToCelsius)** | Temperature conversion utility | Formulas, User Input, Functions |
-| **[TaxCalculator_CPP](https://github.com/abjaiyad/TaxCalculator_CPP)** | Calculate taxes based on income | Business Logic, Calculations |
-| **[MonthlyBudgetTracker](https://github.com/abjaiyad/MonthlyBudgetTracker)** | Track and manage monthly budget | Data Management, Tracking |
-
-**Topics:** `cpp` `intermediate` `applications` `utilities`
-
-### 🎮 Advanced Projects
-More complex C++ implementations.
-
-| Repository | Description | Focus |
-|---|---|---|
-| **[FastAndFuriousCars_Cpp](https://github.com/abjaiyad/FastAndFuriousCars_Cpp)** | Car management/racing simulation | OOP, Advanced Concepts |
-
-**Topics:** `cpp` `advanced` `projects`
+🔗 **[Python-Conditional-Programs](https://github.com/abjaiyad/Python-Conditional-Programs)**
+- 20+ advanced conditional statement implementations
+- Showcase of logical thinking and code efficiency
+- Perfect for demonstrating decision-making in code
 
 ---
 
-## ⚫ C Projects (2 Repositories)
+## 🎓 Expertise Areas
 
-| Repository | Description | Focus |
+### What I Build
+✅ Python applications and scripts  
+✅ SQL queries and database solutions  
+✅ Data processing and analysis  
+✅ Algorithm optimization  
+✅ Problem-solving solutions  
+
+### What I Know
+✅ Data Structures (Lists, Dicts, Tuples, Sets)  
+✅ Algorithms (Sorting, Searching, Optimization)  
+✅ SQL (SELECT, JOIN, Aggregation, Indexing)  
+✅ Database Design  
+✅ Code Optimization  
+✅ Git & Version Control  
+
+---
+
+## 📈 Repository Summary
+
+| Category | Count | Languages |
 |---|---|---|
-| **[MyDigitalClock_C](https://github.com/abjaiyad/MyDigitalClock_C)** | Digital clock implementation in C | Systems Programming, Display |
-| **[Payment-Gateaway](https://github.com/abjaiyad/Payment-Gateaway)** | Payment gateway system | Business Logic, Transactions |
-
-**Topics:** `c` `systems-programming` `projects`
-
----
-
-## 📊 Learning Roadmap
-
-```
-START HERE
-    ↓
-┌─────────────────────────────────────┐
-│   Python Fundamentals               │
-│  • Variables & Data Types           │
-│  • Operators                         │
-│  • Input/Output                      │
-│  • Mathematical Formulas             │
-└─────────────────────────────────────┘
-    ↓
-┌─────────────────────────────────────┐
-│   Python Control Flow                │
-│  • Conditionals                      │
-│  • Loops & Iteration                 │
-│  • Problem Solving                   │
-└─────────────────────────────────────┘
-    ↓
-┌─────────────────────────────────────┐
-│   Python Practice & Exercises        │
-│  • Mixed Concepts                    │
-│  • Real-world Applications           │
-└─────────────────────────────────────┘
-    ↓
-┌─────────────────────────────────────┐
-│   C++ Fundamentals                   │
-│  • Basic Operations                  │
-│  • Variables & Memory                │
-│  • Code Style & Conventions          │
-│  • Algorithms (Fibonacci)            │
-└─────────────────────────────────────┘
-    ↓
-┌─────────────────────────────────────┐
-│   C++ Applications                   │
-│  • Currency Converter                │
-│  • Temperature Conversion            │
-│  • Tax Calculator                    │
-│  • Budget Tracker                    │
-└─────────────────────────────────────┘
-    ↓
-┌─────────────────────────────────────┐
-│   Advanced Projects                  │
-│  • Complex Systems                   │
-│  • OOP & Design Patterns             │
-└─────────────────────────────────────┘
-```
-
----
-
-## 🏷️ Topics & Tags
-
-### By Language
-- `python` - Python Projects (7 repos)
-- `cpp` - C++ Projects (9 repos)
-- `c` - C Projects (2 repos)
-
-### By Level
-- `beginner` - Fundamental concepts
-- `intermediate` - Applied knowledge
-- `advanced` - Complex projects
-
-### By Category
-- `fundamentals` - Core programming concepts
-- `applications` - Practical, real-world projects
-- `exercises` - Practice problems & solutions
-- `utilities` - Tools and helpers
-- `learning` - Educational content
-
-### By Skill
-- `algorithms` - Algorithm implementations
-- `control-flow` - Conditionals & loops
-- `data-structures` - Data organization
-- `systems-programming` - Low-level programming
-- `problem-solving` - Logic & reasoning
-
----
-
-## 📈 Repository Statistics
-
-| Language | Repositories | Level |
-|---|---|---|
-| **Python** | 7 | Beginner → Intermediate |
-| **C++** | 9 | Beginner → Advanced |
-| **C** | 2 | Intermediate |
-| **Total** | **18** | — |
+| **Python Projects** | 7 | Python, SQL |
+| **Total Repositories** | 18 | Python, C++, C |
+| **Primary Focus** | 7 | Python |
 
 ---
 
 ## 🎯 Quick Links
 
-### Most Recommended
-- 🌟 **[Python-Conditional-Programs](https://github.com/abjaiyad/Python-Conditional-Programs)** - Great for practicing logic
-- 🌟 **[CurrencyConverter_CPP](https://github.com/abjaiyad/CurrencyConverter_CPP)** - Real-world application
-- 🌟 **[PythonExercises](https://github.com/abjaiyad/PythonExercises)** - Comprehensive practice
+### Start Here
+- 🔗 **[PythonExercises](https://github.com/abjaiyad/PythonExercises)** - Complete Python solutions
+- 🔗 **[Python-Conditional-Programs](https://github.com/abjaiyad/Python-Conditional-Programs)** - Advanced logic problems
+- 🔗 **[mathematical_formulas](https://github.com/abjaiyad/mathematical_formulas)** - Data processing examples
 
-### Featured Projects
-- **Beginners?** Start with [Python-Variables-DataTypes](https://github.com/abjaiyad/Python-Variables-DataTypes)
-- **Learning C++?** Check [Basic-Math-Operations](https://github.com/abjaiyad/Basic-Math-Operations)
-- **Want Practical Examples?** Explore [MonthlyBudgetTracker](https://github.com/abjaiyad/MonthlyBudgetTracker)
-
----
-
-## 🚀 Getting Started
-
-1. **Choose a Language**: Python is recommended for beginners
-2. **Start with Fundamentals**: Begin with beginner-level repositories
-3. **Progress Gradually**: Move to control flow and advanced concepts
-4. **Practice Exercises**: Solve problems in the exercises repositories
-5. **Explore Other Languages**: Once comfortable, try C++ and C
-6. **Build Projects**: Combine concepts into your own projects
+### Explore Python Fundamentals
+- [Python-Variables-DataTypes](https://github.com/abjaiyad/Python-Variables-DataTypes)
+- [Python-Operators](https://github.com/abjaiyad/Python-Operators)
+- [Python-Input-Output](https://github.com/abjaiyad/Python-Input-Output)
+- [Python-Loops](https://github.com/abjaiyad/Python-Loops)
+- [Python-ConditionalStatements](https://github.com/abjaiyad/Python-ConditionalStatements)
 
 ---
 
-## 📝 How to Navigate
+## 💼 For Recruiters
 
-Each repository contains:
-- ✅ Well-commented source code
-- 📖 README with explanations
-- 🎓 Clear examples
-- 💡 Learning notes
+### What You'll Find
+This profile demonstrates:
+- ✅ **Strong Python fundamentals** - Proven through multiple repositories
+- ✅ **Problem-solving ability** - Real-world scenarios and solutions
+- ✅ **Code quality** - Clean, well-organized, documented code
+- ✅ **Technical depth** - Data structures, algorithms, optimization
+- ✅ **Learning mindset** - Continuous improvement and exploration
 
----
-
-## 🤝 Learning Progress
-
-- ✅ Python Fundamentals Mastered
-- ✅ Python Control Flow Mastered
-- ✅ C++ Basics Mastered
-- ✅ C++ Applications Completed
-- 🔄 C Systems Programming (In Progress)
-- 📋 Advanced OOP Concepts (Coming Soon)
+### Key Strengths
+- **Python Developer** specializing in applications and data processing
+- **Problem Solver** with strong algorithmic thinking
+- **Database knowledge** with SQL expertise
+- **Quick learner** adapting to new technologies
 
 ---
 
-## 📞 Connect & Contribute
+## 🚀 Current Focus
 
-- 💬 Feel free to explore these repositories
-- 🐛 Found an issue? Let me know!
-- 💡 Have suggestions? I'm open to feedback
-- ⭐ If you find these useful, please star the repositories!
+- 🎯 **Mastering Python** for backend development
+- 🎯 **SQL Optimization** for database performance
+- 🎯 **Building real-world applications** with Python & SQL
+- 🎯 **Data processing** and analysis projects
 
 ---
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/amad-bin-jaiyad/)  
-[![X / Twitter](https://img.shields.io/badge/X-black?logo=twitter)](https://x.com/abjaiyad)
+Want to discuss projects, collaborate, or have questions?
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/amad-bin-jaiyad/)  
+[![Twitter/X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white&style=flat-square)](https://x.com/abjaiyad)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square)](https://github.com/abjaiyad)
 
 ---
 
-## 📄 License
+## 📄 About My Repositories
 
-All repositories are available for learning and reference purposes.
+All repositories on this profile showcase my work in:
+- **Python Development** - Primary focus
+- **SQL & Databases** - Secondary expertise
+- **Problem Solving** - Core strength
+
+Each repository is well-documented and ready to explore.
 
 ---
 
-**Last Updated:** June 1, 2026
+<p align="center">
+  <strong>💡 "I build solutions with Python and SQL. Let's create something great together."</strong>
+</p>
 
-*Happy Learning! 🎓*
+---
+
+**Last Updated:** June 1, 2026  
+**Status:** Actively seeking opportunities as a Python Developer with SQL expertise
+
